@@ -1,0 +1,13 @@
+Package: com.creaturecoding.tooth
+Name: Tooth
+Depends: mobilesubstrate, libactivator, firmware(>=7.0)
+Version: 1.1.3
+Architecture: iphoneos-arm
+Description: Smarter Bluetooth Connection Management via Activator
+dev: CreatureSurvive
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Author: CreatureSurvive <support@creaturecoding.com>
+Homepage: https://creaturecoding.com/
+Depiction: https://creaturecoding.com/?page=depiction&id=tooth
+SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=tooth
+Section: Tweaks

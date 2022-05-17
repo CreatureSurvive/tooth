@@ -1,0 +1,3 @@
+[submodule "BluetoothManager"]
+	path = BluetoothManager
+	url = https://github.com/CreatureSurvive/BluetoothManager.git
